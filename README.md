@@ -1,8 +1,8 @@
 <p align="center">
-  <img src=".github/logo.png" alt="Image" width="64">
+  <img src=".github/logo.png" alt="Image" width="96">
 </p>
 
-# Kadalas
+<h1 align="center">Kadalas</h1>
 
 > [!WARNING]
 > This is theme is in beta and some colors or features may be missing or not work as expected.
