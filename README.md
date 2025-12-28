@@ -1,4 +1,6 @@
-![Kadalas Logo](.github/logo.png "Kadalas Logo")
+<p align="center">
+  <img src=".github/logo.png" alt="Image" width="64">
+</p>
 
 # Kadalas
 
