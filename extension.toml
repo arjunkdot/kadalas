@@ -1,0 +1,7 @@
+id = "kadalas"
+name = "Kadalas Theme"
+version = "0.1.0-beta.1"
+schema_version = 1
+authors = ["Arjun K. <arjunkdot@gmail.com>"]
+description = "A simple, easy on the eyes theme for Zed text editor."
+repository = "https://github.com/arjunkdot/kadalas"
