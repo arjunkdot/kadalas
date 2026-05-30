@@ -4,14 +4,9 @@
 
 <h1 align="center">Kadalas</h1>
 
-> [!WARNING]
-> This is theme is in beta and some colors or features may be missing or not work as expected.
->
-
 Kadalas (കടലാസ്) /kəɖəlaːs/ is a minimalist, yet colorful theme primarily designed and built for Zed. 
 This started out as I was looking for a theme that suits my taste but couldn\'t find one.
-The project is still in beta, and some colors might be missing as of now. 
-But I\'m constantly working and fine-tuning the theme to make it complete. Right now, only available for Zed. Available in both light and dark mode.
+Right now, only available for Zed. Available in both light and dark mode.
 
 ## Screenshots
 ![Kadalas Dark Preview](.github/preview-dark.png "Kadalas Dark Preview")
