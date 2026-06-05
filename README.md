@@ -4,6 +4,9 @@
 
 <h1 align="center">Kadalas</h1>
 
+> [!WARNING]
+> This repository is no longer maintained on GitHub and has moved to [Codeberg](https://codeberg.org/arjunkdot/kadalas).
+
 Kadalas (കടലാസ്) /kəɖəlaːs/ is a minimalist, yet colorful theme primarily designed and built for Zed. 
 This started out as I was looking for a theme that suits my taste but couldn\'t find one.
 Right now, only available for Zed. Available in both light and dark mode.
